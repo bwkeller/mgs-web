@@ -1,0 +1,50 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "MGS"
+theme = "risotto"
+
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "gruvbox-dark"
+mode = "dark-mode"
+
+[params.about]
+title = "Memphis Galaxy Simulation Group"
+description = "Understanding galaxy formation through theory and simulation."
+
+[[params.socialLinks]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/bwkeller"
+
+[[params.socialLinks]]
+icon = "ai ai-orcid"
+title="ORCID"
+url = "https://orcid.org/0000-0002-9642-7193"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+
+    [[menu.main]]
+        identifier = "members"
+        name = "Group Members"
+        url = "/members"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        url = "/publications"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+        weight = 3
