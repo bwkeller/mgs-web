@@ -16,3 +16,10 @@ his BSc in Physics and Computer Science from the University of Calgary in 2011.
 
 ## Mst. Shamima Khanom
 
+## Zachary Wyatt
+
+## Javier Saavedra Moreno
+
+## Joseph Zeron
+
+## Daniel Goodwin
