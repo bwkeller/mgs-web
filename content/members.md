@@ -1,7 +1,7 @@
 ---
 title: "Group Members"
 description: "Members of the MGS Group"
-date: "2022-08-15"
+date: "2022-09-05"
 ---
 
 ## Prof. BW Keller
@@ -23,3 +23,19 @@ his BSc in Physics and Computer Science from the University of Calgary in 2011.
 ## Joseph Zeron
 
 ## Daniel Goodwin
+<img src="../img/goodwin.png" alt="Picture of Dan Goodwin" width="200px"/> Dan
+is a native Memphian, but he has lived abroad in France, China, and the
+Philippines. He’s the oddball cyclist spotted in the wild streets of Memphis
+commuting to and fro.
+
+Astro wasn’t always his thing…his first career was in finance. After a decade in
+the corporate world, which included an MSBA Finance, a couple of small
+businesses, and overseas assignments, he decided to embark on a completely new
+journey. Dan engineered his life in such a way that he can now pursue a
+full-time undergraduate degree in physics and chemistry – with the eventual aim
+to earn a PhD. His budding (and rapidly evolving) interests include detecting
+life on exoplanets, star evolution and chemical production and transport, and
+cosmological quandaries.
+
+Dan and his spouse Makee enjoy international travel, learning languages, and
+nerding out over spreadsheets.
