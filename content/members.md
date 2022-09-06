@@ -1,7 +1,7 @@
 ---
 title: "Group Members"
 description: "Members of the MGS Group"
-date: "2022-09-05"
+date: "2022-09-06"
 ---
 
 ## Prof. BW Keller
@@ -18,7 +18,17 @@ his BSc in Physics and Computer Science from the University of Calgary in 2011.<
 
 ## Mst. Shamima Khanom
 <div class="member">
-<div class="member-pic"><!--<img src="../img/" alt="Picture of Mst. Shamima Khanom"/>--></div><div class="member-bio"></div>
+<div class="member-pic"><img src="../img/khanom.jpg" alt="Picture of Mst. Shamima Khanom"/></div><div class="member-bio">
+Mst. Shamima Khanom have joined the PhD program at the department of Physics and
+Material Science in the Memphis University, USA, in the Spring 2022. She
+completed her B. Sc. (Hons.) and M. S. (Thesis) in Physics from Jahangirnagar
+University, Dhaka, Bangladesh. She successfully completed her M. S. thesis under
+the supervision of Prof. Dr. Md. Abul Hossain and her M.Sc. thesis deals in the
+simulation of the efficiency of a four layered multijunction solar cell.
+
+Now she is working on Astrophysics with Dr Benjamin Keller. Her research focus
+is on the co-evolution of galaxies and their supermassive black holes.
+</div>
 </div>
 
 ## Zachary Wyatt
