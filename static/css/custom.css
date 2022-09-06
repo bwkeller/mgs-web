@@ -1,0 +1,12 @@
+.member{
+    display: flex;
+}
+
+.member-pic{
+    min-width: 200px;
+}
+
+.member-bio{
+    padding: 0px 10px;
+}
+
