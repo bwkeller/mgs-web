@@ -1,7 +1,7 @@
 ---
 title: "Group Members"
 description: "Members of the MGS Group"
-date: "2022-09-07"
+date: "2022-09-12"
 ---
 
 ## Prof. BW Keller
@@ -56,7 +56,7 @@ Much like his hair would suggest he wants to be Brian May will not shut up about
 
 ## Joseph Zeron
 <div class="member">
-<div class="member-pic"><!--<img src="../img/" alt="Picture of Josseph Zeron"/>--></div><div class="member-bio"></div>
+<div class="member-pic"><img src="../img/zeron.jpg" alt="Picture of Josseph Zeron"/></div><div class="member-bio">Joseph Zeron is an undergraduate student at the University of Memphis. His concentration is Astronomy. Originally from Honduras, he came to the U.S. where he found a passion for Black Holes and whatever that can explode, and there are a lot of things that explode in space.</div>
 </div>
 
 ## Daniel Goodwin
