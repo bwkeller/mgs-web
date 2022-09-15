@@ -4,6 +4,7 @@
 
 .member-pic{
     min-width: 200px;
+    max-width: 200px;
 }
 
 .member-bio{
