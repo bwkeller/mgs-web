@@ -1,7 +1,7 @@
 ---
 title: "Group Members"
 description: "Members of the MGS Group"
-date: "2022-09-12"
+date: "2023-01-09"
 ---
 
 ## Prof. BW Keller
@@ -56,26 +56,21 @@ Much like his hair would suggest he wants to be Brian May will not shut up about
 
 ## Joseph Zeron
 <div class="member">
-<div class="member-pic"><img src="../img/zeron.jpg" alt="Picture of Josseph Zeron"/></div><div class="member-bio">Joseph Zeron is an undergraduate student at the University of Memphis. His concentration is Astronomy. Originally from Honduras, he came to the U.S. where he found a passion for Black Holes and whatever that can explode, and there are a lot of things that explode in space.</div>
+<div class="member-pic"><img src="../img/zeron.jpg" alt="Picture of Joseph Zeron"/></div><div class="member-bio">Joseph Zeron is an undergraduate student at the University of Memphis. His concentration is Astronomy. Originally from Honduras, he came to the U.S. where he found a passion for Black Holes and whatever that can explode, and there are a lot of things that explode in space.</div>
 </div>
 
-## Daniel Goodwin
+## Ayush Bhawal
 <div class="member">
-<div class="member-pic"><img src="../img/goodwin.png" alt="Picture of Dan Goodwin"/></div><div class="member-bio">
-Dan is a native Memphian, but he has lived abroad in France, China, and the
-Philippines. He’s the oddball cyclist spotted in the wild streets of Memphis
-commuting to and fro.
+Ayush is a new member of the MGS group.
+</div>
 
-Astro wasn’t always his thing…his first career was in finance. After a decade in
-the corporate world, which included an MSBA Finance, a couple of small
-businesses, and overseas assignments, he decided to embark on a completely new
-journey. Dan engineered his life in such a way that he can now pursue a
-full-time undergraduate degree in physics and chemistry – with the eventual aim
-to earn a PhD. His budding (and rapidly evolving) interests include detecting
-life on exoplanets, star evolution and chemical production and transport, and
-cosmological quandaries.
+## Reginald Wayne Holt
+<div class="member">
+Reginald is a new member of the MGS group.
+</div>
 
-Dan and his spouse Makee enjoy international travel, learning languages, and
-nerding out over spreadsheets.
+## Scott Gregory Morris
+<div class="member">
+Scott is a new member of the MGS group.
 </div>
 </div>
