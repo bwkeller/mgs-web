@@ -44,7 +44,7 @@ unsafe = true
         weight = 2
 
     [[menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
+        identifier = "news"
+        name = "News"
+        url = "/news"
         weight = 3
