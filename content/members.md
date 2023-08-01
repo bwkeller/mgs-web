@@ -86,8 +86,10 @@ Ayush is a new member of the MGS group.
 
 ## Reginald Wayne Holt
 <div class="member">
+<div class="member-pic"><img src="../img/holt.png" alt="Picture of Reginald
+Wayne Holt"/></div>
 <div class="member-bio">
-Reginald is a new member of the MGS group.
+Reginald Wayne Holt from Memphis, TN attending the University of Memphis as an undergraduate majoring in Physics with a minor in Computer Science. His interests include Heliophysics, specifically space radiation and space weather. His goal is to contribute to society by developing myself and working with people in the space industry.
 </div>
 </div>
 

@@ -3,6 +3,6 @@
 hugo_stats.json
 /public/
 
-/.hubo.build.lock
+/.hugo_build.lock
 
 *.swp
